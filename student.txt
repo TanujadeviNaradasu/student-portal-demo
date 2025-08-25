@@ -1,0 +1,6 @@
+Name:
+Class:
+Course:
+Roll no:
+Email:
+Password:
